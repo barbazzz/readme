@@ -1,5 +1,9 @@
 # readme
 
+## How internet work
+* [How the Internet Works for Developers - Pt 1](https://youtu.be/e4S8zfLdLgQ)
+* [How the Internet Works for Developers - Pt 2](https://youtu.be/FTAPjr7vgxE)
+
 ## SSH
 * [How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc)
 * [How SSL works tutorial - with HTTPS example](https://youtu.be/iQsKdtjwtYI)
@@ -13,6 +17,9 @@
 ## HTTP
 * [023. http протокол - Иван Бибилов](https://youtu.be/yUHlrabtEaU)
 * [Урок 5: HTTP протокол](https://youtu.be/JB7cmKXXFUw)
+
+# FTP
+* [How to put your website online - how to FTP](https://youtu.be/tq7dqdHCc7U)
 
 ## JavaScript Modules
 * [Modern Modular JavaScript Design Patterns](https://goo.gl/JxTKaR)
