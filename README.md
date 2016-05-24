@@ -1,10 +1,10 @@
-  <meta charset="UTF-8">
 # readme
 
 ## SSH
 ------------------------------------------------
 * [How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc)
 * [How SSL works tutorial - with HTTPS example](https://youtu.be/iQsKdtjwtYI)
+* [Настройка доступа по ssh (обновленная версия)](https://youtu.be/5bF-DTxvvmQ)
 
 ## Cookie
 ------------------------------------------------
@@ -14,7 +14,8 @@
 
 ## HTTP
 ------------------------------------------------
-* 
+* [023. http протокол - Иван Бибилов](https://youtu.be/yUHlrabtEaU)
+* [Урок 5: HTTP протокол](https://youtu.be/JB7cmKXXFUw)
 
 ## JavaScript Modules
 ------------------------------------------------
