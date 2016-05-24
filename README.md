@@ -18,7 +18,7 @@
 * [023. http протокол - Иван Бибилов](https://youtu.be/yUHlrabtEaU)
 * [Урок 5: HTTP протокол](https://youtu.be/JB7cmKXXFUw)
 
-# FTP
+## FTP
 * [How to put your website online - how to FTP](https://youtu.be/tq7dqdHCc7U)
 
 ## JavaScript Modules
