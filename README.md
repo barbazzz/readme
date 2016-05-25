@@ -24,7 +24,9 @@
 ## JavaScript Modules
 * [Modern Modular JavaScript Design Patterns](https://goo.gl/JxTKaR)
 * [Пакуем как боги](http://frontender.info/packing-the-web-like-a-boss/)
-* [Packing the Web Like a Boss ](http://goo.gl/4Yv3et)
+* [Original (En)](http://goo.gl/4Yv3et)
+* [JavaScript модули: руководство для начинающих](http://webtackles.ru/javascript/js-modules-beginners-guide/)
+* [Original (En)](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.8qht37j3i)
 * [Getting Started with Browserify](https://goo.gl/iWAKN7)
 * [Gulp + Browserify и всё, всё, всё](http://goo.gl/aE6zz4)
 * [Начинаем работать с browserify](https://habrahabr.ru/post/224825)
