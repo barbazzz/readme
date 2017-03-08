@@ -1,25 +1,20 @@
 # readme
-
+-------------
 ## How internet work
 * [How the Internet Works for Developers - Pt 1](https://youtu.be/e4S8zfLdLgQ)
 * [How the Internet Works for Developers - Pt 2](https://youtu.be/FTAPjr7vgxE)
 
-## SSH
-* [How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc)
-* [How SSL works tutorial - with HTTPS example](https://youtu.be/iQsKdtjwtYI)
-* [Настройка доступа по ssh (обновленная версия)](https://youtu.be/5bF-DTxvvmQ)
+## Network technologies
++ [Введение в сетевые технологии (Pt1, Pt2)](https://events.yandex.ru/lib/talks/2336/)
++ **HTTP**
+  + [023. http протокол - Иван Бибилов](https://youtu.be/yUHlrabtEaU)
+  + [Урок 5: HTTP протокол](https://youtu.be/JB7cmKXXFUw)
+  + [HTTP - Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/chapters/chapter17.html)
++ **DNS**
+  + [Основы DNS](https://events.yandex.ru/lib/talks/2326/)
 
-## Cookie
-* [What is a cookie?](https://youtu.be/I01XMRo2ESg)
-* [Javascript Programming Tutorial | Cookies](https://youtu.be/Sl0K7gCEIkY)
-* [Javascript Cookies](https://youtu.be/4AAtAULSUXU?t=8m28s)
 
-## HTTP
-* [023. http протокол - Иван Бибилов](https://youtu.be/yUHlrabtEaU)
-* [Урок 5: HTTP протокол](https://youtu.be/JB7cmKXXFUw)
 
-## FTP
-* [How to put your website online - how to FTP](https://youtu.be/tq7dqdHCc7U)
 
 ## JavaScript Modules
 * [Modern Modular JavaScript Design Patterns](https://goo.gl/JxTKaR)
@@ -32,3 +27,19 @@
 * [Начинаем работать с browserify](https://habrahabr.ru/post/224825)
 * [Browserify handbook](https://github.com/substack/browserify-handbook)
 * [Getting Started with webpack](https://www.youtube.com/watch?v=TaWKUpahFZM)
+
+
+## SSH
+* [How the Internet Works in 5 Minutes](https://youtu.be/7_LPdttKXPc)
+* [How SSL works tutorial - with HTTPS example](https://youtu.be/iQsKdtjwtYI)
+* [Настройка доступа по ssh (обновленная версия)](https://youtu.be/5bF-DTxvvmQ)
+
+## Cookie
+* [What is a cookie?](https://youtu.be/I01XMRo2ESg)
+* [Javascript Programming Tutorial | Cookies](https://youtu.be/Sl0K7gCEIkY)
+* [Javascript Cookies](https://youtu.be/4AAtAULSUXU?t=8m28s)
+
+
+## FTP
+* [How to put your website online - how to FTP](https://youtu.be/tq7dqdHCc7U)
+
