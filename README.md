@@ -18,6 +18,13 @@
 * [Build A CMS Admin Bootstrap Theme From Scratch](https://www.youtube.com/watch?v=pXbEcGUtHgo)
 * [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8&list=PLillGF-RfqbZ7b9ytQhLqLvWO2Q_3Ph7S)
 
+## Full Website Examples
+* [15 Free Admin Templates For Backend Panels](http://bashooka.com/freebie/free-admin-templates-for-backend-panels/)
+* [modularcode/modular-admin-html](https://github.com/modularcode/modular-admin-html)
+
+## PSD
+* [15 Free Photoshop & Sketch Admin Dashboard UI Templates](https://speckyboy.com/free-admin-dashboard-templates/)
+
 ## JavaScript Modules
 * [Modern Modular JavaScript Design Patterns](https://goo.gl/JxTKaR)
 * [Пакуем как боги](http://frontender.info/packing-the-web-like-a-boss/)
