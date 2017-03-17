@@ -14,7 +14,9 @@
   + [Основы DNS](https://events.yandex.ru/lib/talks/2326/)
 
 
-
+## Bootstrap
+* [Build A CMS Admin Bootstrap Theme From Scratch](https://www.youtube.com/watch?v=pXbEcGUtHgo)
+* [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8&list=PLillGF-RfqbZ7b9ytQhLqLvWO2Q_3Ph7S)
 
 ## JavaScript Modules
 * [Modern Modular JavaScript Design Patterns](https://goo.gl/JxTKaR)
