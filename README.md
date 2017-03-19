@@ -13,6 +13,11 @@
 + **DNS**
   + [Основы DNS](https://events.yandex.ru/lib/talks/2326/)
 
+## NodeJS
++ [Скринкаст по Node.JS](https://www.youtube.com/playlist?list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)
++ [NodeJS / Express / MongoDB - Build a Shopping Cart](https://www.youtube.com/watch?v=-3vvxn78MH4)
++ [Beginner Express.js Tutorial | Building a Star Wars Movie App](https://www.youtube.com/watch?v=NALxjuyRXaE)
++ [Node.js Login System With Passport ](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 
 ## Bootstrap
 * [Build A CMS Admin Bootstrap Theme From Scratch](https://www.youtube.com/watch?v=pXbEcGUtHgo)
